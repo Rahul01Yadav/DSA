@@ -7,7 +7,6 @@ class sumOfDigits {
 
         int sum = sumOfAllDigits(a);
         System.out.println(sum);
-        sc.close();
     }
 
     static int sumOfAllDigits(int a) {

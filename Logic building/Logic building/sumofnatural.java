@@ -11,7 +11,6 @@ public class sumofnatural {
         }
 
         System.out.print(sum);
-        sc.close();
 
     }
 }

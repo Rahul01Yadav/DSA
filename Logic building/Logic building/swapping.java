@@ -18,7 +18,6 @@ public class swapping {
         result.add(b);
 
         System.out.println(result);
-        sc.close();
 
     }
 }

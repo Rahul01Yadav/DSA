@@ -25,6 +25,5 @@ class multiplications_table {
         }
 
         System.out.println(list);
-        sc.close();
     }
 }

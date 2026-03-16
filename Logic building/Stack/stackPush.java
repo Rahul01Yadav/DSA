@@ -18,6 +18,5 @@ public class stackPush {
             stack[top] = x;
             System.out.println(x+" is pushed to stack");
         }
-        sc.close();
     }
 }

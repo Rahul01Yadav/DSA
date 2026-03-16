@@ -11,6 +11,7 @@ public class sumofsqaurenatural {
         }
 
         System.out.print(squaresum);
+        sc.close();
 
     }
 }
